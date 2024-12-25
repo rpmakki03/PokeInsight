@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { getFullPokedexNumber, getPokedexNumber } from '../utils'
+import { getFullPokedexNumber, getPokedexNumber } from '../utils/index.js'
 import TypeCard from './TypeCard'
 import Modal from './Modal'
 
